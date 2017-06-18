@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ProjetoAndroid</string>
+
+    <string name="acao_pesquisar">Pesquisar</string>
+    <string name="acao_novo">Novo</string>
+    <string name="acao_info">Info</string>
+    <string name="hint_busca">Procurar por um colaborador</string>
+
+    <string name="txtNome">Nome</string>
+    <string name="txtApelido">Apelido</string>
+    <string name="txtCategoria">categoria</string>
+    <string name="txtSubcategoria">Subcategoria</string>
+    <string name="txtdescricao">Descrição</string>
+    <string name="txtEndereco">Endereço</string>
+    <string name="txtTelefone">Telefone</string>
+</resources>
